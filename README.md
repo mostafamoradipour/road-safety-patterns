@@ -1,5 +1,7 @@
 # Road Safety Patterns
 
+![road safety exploration workflow](docs/workflow.svg)
+
 A notebook-based exploratory analysis project for studying patterns in road-safety data. The repository organizes the analysis into descriptive, temporal, and geographic notebooks.
 
 ## Notebooks
